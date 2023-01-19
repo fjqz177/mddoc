@@ -10,6 +10,7 @@ repo_url: https://github.com/fjqz177/mddoc/
 copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
 
 theme:
+  custom_dir: overrides
   name: material
   language: zh
   static_templates:
