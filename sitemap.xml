@@ -49,6 +49,14 @@
          
     </url>
     <url>
+         <loc>https://csdiy.wiki/%E6%B5%8B%E8%AF%95/</loc>
+         <lastmod>2023-01-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/zh/%E6%B5%8B%E8%AF%95/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E6%B5%8B%E8%AF%95/"/>
+         
+    </url>
+    <url>
          <loc>https://csdiy.wiki/Web%E5%BC%80%E5%8F%91/CS142/</loc>
          <lastmod>2023-01-19</lastmod>
          <changefreq>daily</changefreq>
