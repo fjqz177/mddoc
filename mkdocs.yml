@@ -116,7 +116,7 @@ extra:
       link: https://github.com/fjqz177/mddoc/
   analytics:
     provider: google
-    property: G-KJB4RXSKZG
+    property: 
 
 nav:
   - 前言: "index.md"
