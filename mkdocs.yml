@@ -4,8 +4,8 @@ site_author: PKUFlyingPig
 site_description: >-
   CS自学指南
 
-repo_name: cs-self-learning
-repo_url: https://github.com/pkuflyingpig/cs-self-learning/
+repo_name: mddoc
+repo_url: https://github.com/fjqz177/mddoc/
 
 copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
 
@@ -113,7 +113,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pkuflyingpig/cs-self-learning/
+      link: https://github.com/fjqz177/mddoc/
   analytics:
     provider: google
     property: G-KJB4RXSKZG
