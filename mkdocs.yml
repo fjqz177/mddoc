@@ -25,8 +25,8 @@ theme:
     # - navigation.expand
     # - navigation.sections
     - navigation.tracking
-    # - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     # - navigation.indexes
     - search.highlight
