@@ -81,6 +81,9 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
 
 extra_javascript:
   - javascripts/mathjax.js
