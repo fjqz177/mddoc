@@ -34,6 +34,8 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
 
   palette:
     - media: "(prefers-color-scheme: light)"
