@@ -34,8 +34,6 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
-    - content.code.copy
-    - content.tabs.link
 
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -64,35 +62,6 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - tables
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - footnotes
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
-comments: true
 
 plugins:
   - i18n:
