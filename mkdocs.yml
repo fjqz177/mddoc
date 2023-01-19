@@ -52,7 +52,7 @@ theme:
         name: Switch to light mode
 
   font:
-    text: Roboto
+    text: Noto Serif SC
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
